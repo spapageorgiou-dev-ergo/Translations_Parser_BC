@@ -1,4 +1,4 @@
-# Translations_Parser_BC
+# Translations_Parser_BC_A1032
 In order to run the script properly do as follows:
 
 1.Get the migration .al files in a directory.
